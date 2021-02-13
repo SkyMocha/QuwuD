@@ -1,6 +1,17 @@
 # QuwuD
-Makes Caves of Qud cooler! UwU!
+Makes Caves of Qud more kawaii~! UwU!
 Why such a sewiows game !
 
 ## Contents
-Contains a UwU converter in Python that does most of the work. Updates to the XML are made through the python convertor.
+* Custom C# UwU library
+* Python scripts to pre-patch the XML data
+* Harmony live-patching for malleable data
+* A lot of UwUs!
+
+## Steam Install
+TODO
+
+## Manual Download
+* [https://cavesofqud.gamepedia.com/Modding:Installing_a_mod](https://cavesofqud.gamepedia.com/Modding:Installing_a_mod)
+
+Have fun~! UwU!
