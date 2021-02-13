@@ -1,4 +1,5 @@
 # Why so sewiouws
+# ~/Library/Application Support/Steam/steamapps/common/Caves of Qud/CoQ.app/Contents/Resources/Data/StreamingAssets/Base/
 
 # importing the module. 
 import xml.etree.ElementTree as ET 
